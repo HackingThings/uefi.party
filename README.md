@@ -1,1 +1,1 @@
-# uefi.party
+# WHQL.party
